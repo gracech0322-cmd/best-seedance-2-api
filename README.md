@@ -114,6 +114,8 @@ Some also have extra fees that are not shown in the main model price.
 
 ### BytePlus Uses Tokens
 
+![image](byteplus-ai.jpg)
+
 BytePlus is the official API provider.
 
 It uses token-based billing. The token cost depends on:
@@ -139,6 +141,8 @@ This is why a task with a reference video may not cost much more than a task wit
 BytePlus is often the cheapest option. The hard part is knowing the exact cost before the task runs.
 
 ### SeeGen AI Uses Credits
+
+![image](seegen-ai.jpg)
 
 [SeeGen AI](https://seegen.ai/?utm_source=gitapi) uses fixed credit rules.
 
@@ -192,6 +196,8 @@ The main drawback is that the lowest dollar price needs a $500 credit purchase.
 The $9.99 package can still be used for API calls. It just has a higher cost per credit.
 
 ### PiAPI Uses Fixed Per-Second Pricing
+
+![image](piapi.jpg)
 PiAPI is easier to calculate.
 
 For the standard Seedance 2.0 model at 720p:
